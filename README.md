@@ -4,4 +4,4 @@ Create a simple template for contact form using Grid layout
 ### Sample images
 ![Screen shot](https://github.com/nghientai/mobile_first_contact_form/blob/master/images/Screen%20Shot.png)
 
-![Screen shot](https://github.com/nghientai/mobile_first_contact_form/blob/master/images/mobile.png)
+![Screen shot](https://github.com/nghientai/mobile_first_contact_form/blob/master/images/mobile.png | width=100)
