@@ -2,4 +2,4 @@
 Create a simple template for contact form using Grid layout
 
 ![Screen shot](/images/Screen Shot.png)
-
+Format:![Screen shot](url)
